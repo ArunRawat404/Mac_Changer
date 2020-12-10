@@ -7,11 +7,13 @@ sudo apt-get install python3.8
 # Run
 *To change to particular mac_address(use mac_changer.py)
 
-sudo python3 mac_changer --help
+sudo python3 mac_changer.py --interface <interface_name(e.g:eth0)> --mac <new_mac_addresss>
+
+sudo python3 mac_changer.py --help
 
 *To change to valid random generator mac_address (use mac_changer_random.py)
 
-sudo python3 mac_changer_random 
+sudo python3 mac_changer_random.py --interface <interface_name(e.g:eth0)> 
 
 # Contact
 Instagram : https://instagram.com/arunrawat369
