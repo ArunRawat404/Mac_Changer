@@ -4,7 +4,7 @@ Use to change mac_address to a particular mac_address (mac_changer.py) or to cha
 # Setup
 sudo apt-get install python3.8
 
-# run
+# Run
 *To change to particular mac_address(use mac_changer.py)
 
 sudo python3 mac_changer --help
@@ -13,5 +13,5 @@ sudo python3 mac_changer --help
 
 sudo python3 mac_changer_random 
 
-#Contact
+# Contact
 Instagram : https://instagram.com/arunrawat369
